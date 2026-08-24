@@ -5,8 +5,8 @@
 - **Vertical:** travel-tech data (dynamic pricing)
 - **Primary contact / champion:** Andrew Kitchell, CEO & Founder, andrew@usewheelhouse.com (strategic partnership; John Maus a co-primary for the business case)
 - **Other contacts:** John Maus, Co-Founder, Head of Finance & Operations, john@usewheelhouse.com
-- **Stage:** new (draft, not sent)
-- **Last touch:** none yet (drafts ready)
+- **Stage:** outreach-sent — awaiting reply
+- **Last touch:** 2026-08-19
 
 ## The real blocker
 unknown, need to diagnose — no outreach sent yet.
@@ -19,3 +19,6 @@ Send the drafted cold-open emails: strategic-partnership angle to Andrew Kitchel
 
 ## Sources
 Outreach master workbook (Drive fileId 16A_gIhI3GTNZqJ6unbwolshV8kZuFxh0DGO6XqJetIk), Wheelhouse tab.
+
+## Outreach log (Gmail-verified 2026-08-24)
+- Emailed 08-19: andrew@usewheelhouse.com. No reply.

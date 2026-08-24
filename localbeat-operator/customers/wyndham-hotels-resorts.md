@@ -5,8 +5,8 @@
 - **Vertical:** hotel operator (franchisor)
 - **Primary contact / champion:** Michael Mahar, SVP & Head of Commercial Technology, Loyalty & Digital Products, michael.mahar@wyndham.com (the strongest target — owns the app, Rewards Experiences, AI recommendations)
 - **Other contacts:** Marissa Yoss, VP, Media & Brand Marketing, marissa.yoss@wyndham.com (event-tied creative in paid media) · Bella Silverberg, Group VP, B2B Marketing & Communications, bella.silverberg@wyndham.com (a local-marketing asset for owners; confirm still current) · Lauren Novy, Director/Head of Franchise Sales & Development Marketing, lauren.novy@wyndham.com (skip — franchise-recruitment marketing, off-target) · Siravuth Leng, siravuth.leng@wyndham.com (departed — remove; now runs Matthopaw Hospitality)
-- **Stage:** new (draft, not sent)
-- **Last touch:** none yet (drafts ready)
+- **Stage:** outreach-sent — awaiting reply
+- **Last touch:** 2026-08-19
 
 ## The real blocker
 US-only coverage vs a ~29% international system — the pitch must be scoped to US hotels (~71% of properties).
@@ -22,3 +22,6 @@ Send the drafted emails, split by angle: Michael Mahar (app + Rewards Experience
 
 ## Sources
 Outreach master workbook (Drive fileId 16A_gIhI3GTNZqJ6unbwolshV8kZuFxh0DGO6XqJetIk), Wyndham Hotels & Resorts tab.
+
+## Outreach log (Gmail-verified 2026-08-24)
+- Emailed 08-19: michael.mahar@wyndham.com. No reply.

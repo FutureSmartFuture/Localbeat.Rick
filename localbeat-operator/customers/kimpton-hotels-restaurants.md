@@ -5,8 +5,8 @@
 - **Vertical:** hotel operator (lifestyle brand, IHG)
 - **Primary contact / champion:** Brent Oswald, Director of Online Marketing & Web Presence (Kimpton HQ), brent.oswald@kimptonhotels.com (HQ digital/web target) (unverified — confirm)
 - **Other contacts:** Anna Hughes, Director of Sales & Marketing, Kimpton Hotel Monaco Seattle, anna.hughes@kimptonhotels.com · Lindsey Sullivan, Director of Sales & Marketing, Kimpton Aertson Hotel (Nashville), lindsey.sullivan@aertsonhotel.com (unverified — confirm) · Lucas Lopresti, Associate Director of Sales & Marketing, Kimpton Gray Hotel Chicago, lucas.lopresti@grayhotelchicago.com · Haroon Chaudhry, haroon.chaudhry@kimptonhotels.com (unverified — confirm; likely moved to Highgate NYC, email may be inactive)
-- **Stage:** new (draft, not sent)
-- **Last touch:** none yet (drafts ready)
+- **Stage:** outreach attempted — BOUNCED (not reached)
+- **Last touch:** 2026-08-13 (bounced)
 
 ## The real blocker
 Mostly property-level contacts (no clear corporate buyer); value pitched per property/market.
@@ -19,3 +19,6 @@ Send the drafted HQ email to Brent Oswald and localized property emails to Anna 
 
 ## Sources
 Outreach master workbook (Drive fileId 16A_gIhI3GTNZqJ6unbwolshV8kZuFxh0DGO6XqJetIk), Kimpton Hotels & Restaurants tab.
+
+## Outreach log (Gmail-verified 2026-08-24)
+- Emailed 08-13: anna.hughes@kimptonhotels.com — BOUNCED (forwards to a nonexistent ihg.com address), so Kimpton was effectively never reached. Re-send to a valid address.

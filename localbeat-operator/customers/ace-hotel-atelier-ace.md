@@ -5,8 +5,8 @@
 - **Vertical:** hotel operator (culture-led boutique brand)
 - **Primary contact / champion:** Jamaal Layne, VP, Marketing (Ace Hotel / Atelier Ace), jamaal.layne@atelierace.com (unverified — confirm on LinkedIn)
 - **Other contacts:** unknown (single contact on the sheet)
-- **Stage:** new (draft, not sent)
-- **Last touch:** none yet (drafts ready)
+- **Stage:** unverified — Gmail not yet checked
+- **Last touch:** unknown
 
 ## The real blocker
 Coverage — only 4 of 8 Ace properties are US (New York, Brooklyn, Seattle, Palm Springs); Toronto, Sydney, Kyoto, Athens are outside LocalBeat's US-only coverage. Lead with the US properties; frame US as phase one.
@@ -22,3 +22,6 @@ Send the drafted cold-open email to Jamaal Layne (VP Marketing) — verify on Li
 
 ## Sources
 Outreach master workbook (Drive fileId 16A_gIhI3GTNZqJ6unbwolshV8kZuFxh0DGO6XqJetIk), Ace Hotel / Atelier Ace tab.
+
+## Outreach log (Gmail-verified 2026-08-24)
+- Gmail was not searched for atelierace.com in the 2026-08-24 reconciliation. Verify send status before treating as new.

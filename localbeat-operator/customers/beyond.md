@@ -5,8 +5,8 @@
 - **Vertical:** travel-tech data (dynamic pricing)
 - **Primary contact / champion:** Julie Brinkman, CEO, julie.brinkman@beyondpricing.com
 - **Other contacts:** Rana Satti, "Fashion Designer/Founder" (title does not fit a pricing company; only public match is a Miami art & design student), rana.satti@beyondpricing.com (unverified — confirm)
-- **Stage:** new (draft, not sent)
-- **Last touch:** none yet (drafts ready)
+- **Stage:** outreach-sent — awaiting reply
+- **Last touch:** 2026-08-10
 
 ## The real blocker
 unknown, need to diagnose — no outreach sent yet.
@@ -19,3 +19,6 @@ Send the drafted cold-open email to Julie Brinkman. Verify Rana Satti's identity
 
 ## Sources
 Outreach master workbook (Drive fileId 16A_gIhI3GTNZqJ6unbwolshV8kZuFxh0DGO6XqJetIk), Beyond tab.
+
+## Outreach log (Gmail-verified 2026-08-24)
+- Emailed 08-10: julie.brinkman@beyondpricing.com. No reply.

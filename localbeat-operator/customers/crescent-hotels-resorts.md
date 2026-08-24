@@ -5,8 +5,8 @@
 - **Vertical:** hotel operator
 - **Primary contact / champion:** Kristi Kastrounis, SVP, Marketing (promoted from VP Digital Marketing), kristi.kastrounis@crescenthotels.com
 - **Other contacts:** Sherry Serio, SVP, Sales & Marketing, Lifestyle & Independent Hotels, sherry.serio@crescenthotels.com · Angela Coner, VP, Sales & Marketing (Mid-Atlantic), angela.coner@crescenthotels.com · Brandi Baker, VP, Sales & Marketing, brandi.baker@crescenthotels.com · Randy Danison, Area Director of Sales & Marketing, randy.danison@crescenthotels.com (unverified — confirm; also shows a DoubleTree Orlando sales role)
-- **Stage:** new (draft, not sent)
-- **Last touch:** none yet (drafts ready)
+- **Stage:** outreach-sent — awaiting reply
+- **Last touch:** 2026-08-11
 
 ## The real blocker
 unknown, need to diagnose — no outreach sent yet.
@@ -22,3 +22,6 @@ Send the drafted combined email to the four confirmed contacts (Kristi, Sherry, 
 
 ## Sources
 Outreach master workbook (Drive fileId 16A_gIhI3GTNZqJ6unbwolshV8kZuFxh0DGO6XqJetIk), Crescent Hotels & Resorts tab.
+
+## Outreach log (Gmail-verified 2026-08-24)
+- Emailed 08-11: sherry.serio, kristi.kastrounis, angela.coner, brandi.baker (@crescenthotels.com). No reply.

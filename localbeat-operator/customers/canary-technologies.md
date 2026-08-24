@@ -5,8 +5,8 @@
 - **Vertical:** guest-experience SaaS
 - **Primary contact / champion:** Harman Narula, Co-Founder & CEO, hnarula@canarytechnologies.com (Satjot "SJ" Sawhney, Co-Founder & President, a co-primary)
 - **Other contacts:** Satjot Sawhney, Co-Founder & President, ssawhney@canarytechnologies.com
-- **Stage:** new (draft, not sent)
-- **Last touch:** none yet (drafts ready)
+- **Stage:** outreach-sent — awaiting reply
+- **Last touch:** 2026-08-10
 
 ## The real blocker
 unknown, need to diagnose — no outreach sent yet.
@@ -22,3 +22,6 @@ Send the drafted email to both co-founders Harman Narula and Satjot Sawhney (can
 
 ## Sources
 Outreach master workbook (Drive fileId 16A_gIhI3GTNZqJ6unbwolshV8kZuFxh0DGO6XqJetIk), Canary Technologies tab.
+
+## Outreach log (Gmail-verified 2026-08-24)
+- Emailed 08-10: ssawhney, hnarula (@canarytechnologies.com). No reply.

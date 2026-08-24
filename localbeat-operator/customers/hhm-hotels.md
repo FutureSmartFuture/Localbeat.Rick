@@ -5,8 +5,8 @@
 - **Vertical:** hotel operator
 - **Primary contact / champion:** James Meminger, SVP eCommerce, CHDM, james.meminger@hhmhotels.com (primary digital/retargeting target)
 - **Other contacts:** Natalie Mesa-Martinez, Corporate Director of Marketing, natalie.mesamartinez@hhmhotels.com · Cole Hernandez, Regional Director of Marketing, cole.hernandez@hhmhotels.com · Jack Vielhauer, Area Director of Marketing (Houston), jack.vielhauer@hhmhotels.com (unverified — confirm; conflicting Davidson affiliation) · Stacey Evans, Area Director of Sales & Marketing, stacey.evans@hhmhotels.com (unverified — confirm; only a stale Hersha record found)
-- **Stage:** new (draft, not sent)
-- **Last touch:** none yet (drafts ready)
+- **Stage:** outreach-sent — awaiting reply
+- **Last touch:** 2026-08-13
 
 ## The real blocker
 unknown, need to diagnose — no outreach sent yet.
@@ -19,3 +19,6 @@ Send the drafted email to James Meminger (SVP eCommerce) as the digital target, 
 
 ## Sources
 Outreach master workbook (Drive fileId 16A_gIhI3GTNZqJ6unbwolshV8kZuFxh0DGO6XqJetIk), HHM Hotels tab.
+
+## Outreach log (Gmail-verified 2026-08-24)
+- Emailed 08-13: cole.hernandez, natalie.mesamartinez (@hhmhotels.com). No reply.

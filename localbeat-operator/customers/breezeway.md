@@ -5,8 +5,8 @@
 - **Vertical:** guest-experience SaaS (property-ops + guest experience)
 - **Primary contact / champion:** Jeremy Gall (also goes by Jeremiah Gall), Founder & CEO, jeremy@breezeway.io
 - **Other contacts:** Peter Andruszkiewicz, VP, Partnerships & Strategy, peter.a@breezeway.io
-- **Stage:** new (draft, not sent)
-- **Last touch:** none yet (drafts ready)
+- **Stage:** outreach-sent — awaiting reply
+- **Last touch:** 2026-08-10
 
 ## The real blocker
 unknown, need to diagnose — no outreach sent yet.
@@ -22,3 +22,6 @@ Send the drafted email to Jeremy Gall and Peter Andruszkiewicz (both share one m
 
 ## Sources
 Outreach master workbook (Drive fileId 16A_gIhI3GTNZqJ6unbwolshV8kZuFxh0DGO6XqJetIk), Breezeway tab.
+
+## Outreach log (Gmail-verified 2026-08-24)
+- Emailed 08-10: jeremy, peter.a (@breezeway.io). No reply.

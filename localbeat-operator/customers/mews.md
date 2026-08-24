@@ -5,8 +5,8 @@
 - **Vertical:** other (cloud hospitality platform / PMS)
 - **Primary contact / champion:** Joel Ndreu, VP / Director, Product & Engineering, joel.ndreu@mews.com
 - **Other contacts:** unknown (single contact on the sheet)
-- **Stage:** new (draft, not sent)
-- **Last touch:** none yet (drafts ready)
+- **Stage:** outreach-sent — awaiting reply
+- **Last touch:** 2026-08-13
 
 ## The real blocker
 unknown, need to diagnose — no outreach sent yet.
@@ -22,3 +22,6 @@ Send the drafted cold-open email to Joel Ndreu (Product & Engineering).
 
 ## Sources
 Outreach master workbook (Drive fileId 16A_gIhI3GTNZqJ6unbwolshV8kZuFxh0DGO6XqJetIk), Mews tab.
+
+## Outreach log (Gmail-verified 2026-08-24)
+- Emailed 08-13: joel.ndreu@mews.com. No reply.

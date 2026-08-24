@@ -5,8 +5,8 @@
 - **Vertical:** booking platform (global OTA)
 - **Primary contact / champion:** Jennifer Huang, Head of Account Management, Demand Partnerships (North America), jennifer.huang@booking.com
 - **Other contacts:** unknown (single contact on the sheet)
-- **Stage:** new (draft, not sent)
-- **Last touch:** none yet (drafts ready)
+- **Stage:** outreach-sent — OOO auto-reply
+- **Last touch:** 2026-08-10
 
 ## The real blocker
 unknown, need to diagnose — no outreach sent yet.
@@ -22,3 +22,6 @@ Send the drafted cold-open email to Jennifer Huang (leads demand partnerships in
 
 ## Sources
 Outreach master workbook (Drive fileId 16A_gIhI3GTNZqJ6unbwolshV8kZuFxh0DGO6XqJetIk), Booking.com tab.
+
+## Outreach log (Gmail-verified 2026-08-24)
+- Emailed 08-10: jennifer.huang@booking.com. Auto OOO reply only — follow up on her return.

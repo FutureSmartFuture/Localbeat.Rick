@@ -5,8 +5,8 @@
 - **Vertical:** hotel operator
 - **Primary contact / champion:** Lisa Tully-Lavian, EVP, Marketing, lisa.tully-lavian@hotelequities.com (senior/primary target)
 - **Other contacts:** Dana Wendell, VP of Marketing, Strategic Accounts, dana.wendell@hotelequities.com · Eve Tronson, VP of Marketing, Lifestyle Division (Springboard side), eve.tronson@hotelequities.com · Kelly Keith, Corporate Director of Sales & Marketing, kelly.keith@hotelequities.com (unverified — confirm) · Stacey Gauthier (surname changed from Zielenski), Director of Sales & Marketing, listed email stacey_z@lagunacliffs.com (unverified — confirm; email is STALE, find current @hotelequities.com address)
-- **Stage:** new (draft, not sent)
-- **Last touch:** none yet (drafts ready)
+- **Stage:** outreach-sent — awaiting reply
+- **Last touch:** 2026-08-13
 
 ## The real blocker
 unknown, need to diagnose — no outreach sent yet.
@@ -19,3 +19,6 @@ Send the drafted email to Lisa Tully-Lavian (EVP, senior target), Dana Wendell, 
 
 ## Sources
 Outreach master workbook (Drive fileId 16A_gIhI3GTNZqJ6unbwolshV8kZuFxh0DGO6XqJetIk), Hotel Equities tab.
+
+## Outreach log (Gmail-verified 2026-08-24)
+- Emailed 08-13: dana.wendell, eve.tronson, lisa.tully-lavian (@hotelequities.com). No reply.

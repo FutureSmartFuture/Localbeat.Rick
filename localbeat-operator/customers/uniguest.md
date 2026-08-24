@@ -5,8 +5,8 @@
 - **Vertical:** guest-experience SaaS (digital signage / in-room)
 - **Primary contact / champion:** Sujit Kar, Head of Product Management (Uniguest platform / Hub), sujit.kar@uniguest.com (Guy Avital co-primary for the UCView signage product)
 - **Other contacts:** Guy Avital, VP, UCView Product (Uniguest), gavital@ucview.com
-- **Stage:** new (draft, not sent)
-- **Last touch:** none yet (drafts ready)
+- **Stage:** outreach-sent — awaiting reply
+- **Last touch:** 2026-08-18
 
 ## The real blocker
 unknown, need to diagnose — no outreach sent yet.
@@ -19,3 +19,6 @@ Send the drafted cold-open emails: platform/Hub angle to Sujit Kar; UCView digit
 
 ## Sources
 Outreach master workbook (Drive fileId 16A_gIhI3GTNZqJ6unbwolshV8kZuFxh0DGO6XqJetIk), Uniguest tab.
+
+## Outreach log (Gmail-verified 2026-08-24)
+- Emailed 08-18: gavital@ucview.com (sister brand). Nothing sent to uniguest.com yet — reach Sujit Kar there too.

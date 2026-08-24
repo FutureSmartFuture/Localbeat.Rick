@@ -5,8 +5,8 @@
 - **Vertical:** hotel operator
 - **Primary contact / champion:** Marisa Mulh, Senior Director of Integrated Marketing (corporate), mmulh@davidsonhospitality.com (primary — owns cross-portfolio digital/content/campaigns)
 - **Other contacts:** Tim Gustafson, Senior Regional Director, Sales & Marketing, tgustafson@davidsonhospitality.com (fix LinkedIn URL — sheet's slug is fabricated; real profile linkedin.com/in/timlgust...) · Katie Roberts, Director of Marketing, Margaritaville Hotel Kansas City (property-level), katie_roberts@davidsonhospitality.com (unverified — confirm; scope to that hotel) · Cyndi Norwood, Manager, Marketing & Executive Assistant to the President/CEO and COO, cnorwood@davidsonhotels.com (routing — EA, gatekeeper; legacy davidsonhotels.com email)
-- **Stage:** new (draft, not sent)
-- **Last touch:** none yet (drafts ready)
+- **Stage:** new — not yet contacted
+- **Last touch:** none (Gmail-verified: no outreach found)
 
 ## The real blocker
 unknown, need to diagnose — no outreach sent yet.
@@ -22,3 +22,6 @@ Send the drafted email to Marisa Mulh (corporate Sr Dir Integrated Marketing —
 
 ## Sources
 Outreach master workbook (Drive fileId 16A_gIhI3GTNZqJ6unbwolshV8kZuFxh0DGO6XqJetIk), Davidson Hospitality Group tab.
+
+## Outreach log (Gmail-verified 2026-08-24)
+- No outreach found in Gmail as of 2026-08-24. Genuinely new.

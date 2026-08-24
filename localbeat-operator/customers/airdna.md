@@ -5,8 +5,8 @@
 - **Vertical:** travel-tech data
 - **Primary contact / champion:** Rohit Bezewada, CEO (appointed 2025, succeeded Demi Horvat), rohit.bezewada@airdna.co
 - **Other contacts:** Luke Damommio (public spelling "DaMommio"), Sr. Director, Brand & Product Marketing, luke.damommio@airdna.co
-- **Stage:** new (draft, not sent)
-- **Last touch:** none yet (drafts ready)
+- **Stage:** outreach-sent — awaiting reply
+- **Last touch:** 2026-08-10
 
 ## The real blocker
 unknown, need to diagnose — no outreach sent yet.
@@ -22,3 +22,6 @@ Send the shared drafted email to Rohit Bezewada and Luke Damommio (the two share
 
 ## Sources
 Outreach master workbook (Drive fileId 16A_gIhI3GTNZqJ6unbwolshV8kZuFxh0DGO6XqJetIk), AirDNA tab.
+
+## Outreach log (Gmail-verified 2026-08-24)
+- Emailed 08-10: rohit.bezewada, luke.damommio (@airdna.co). No reply.

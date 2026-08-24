@@ -5,8 +5,8 @@
 - **Vertical:** hotel operator (luxury)
 - **Primary contact / champion:** Danielle McNally (also under married name Manak), Director, Marketing Communications, Mandarin Oriental Boston, dmcnally@mohg.com
 - **Other contacts:** Jeanne Delgado, Director of Commercial Strategy (updated ~Jun 2026), NYC, jeanned@mohg.com · Rosalynn Castillo, Director of Marketing & Commerce, Mandarin Oriental Canouan (Caribbean), rosalynnc@mohg.com (coverage mismatch — outside US coverage) · Angela Caicedo, cangela@mohg.com (unverified — confirm; every public source lists her as a Spa Therapist, title mismatch) · Kylee Kozisek, kkozisek@mohg.com (departed — remove; now VP Marketing, Vessel at Related Companies)
-- **Stage:** new (draft, not sent)
-- **Last touch:** none yet (drafts ready)
+- **Stage:** outreach-sent — awaiting reply
+- **Last touch:** 2026-08-13
 
 ## The real blocker
 The list is largely stale — only two usable US targets (Danielle McNally in Boston, Jeanne Delgado in NYC); the rest departed, misfiled, or outside US coverage.
@@ -19,3 +19,6 @@ Send the drafted cold-open emails to Danielle McNally (Boston, content/concierge
 
 ## Sources
 Outreach master workbook (Drive fileId 16A_gIhI3GTNZqJ6unbwolshV8kZuFxh0DGO6XqJetIk), Mandarin Oriental tab.
+
+## Outreach log (Gmail-verified 2026-08-24)
+- Emailed 08-13: jeanned@mohg.com. No reply.

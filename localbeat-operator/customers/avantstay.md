@@ -5,8 +5,8 @@
 - **Vertical:** vacation-rental (hybrid operator + booking platform)
 - **Primary contact / champion:** Benson Bleier, Co-Founder (widely listed as CEO), bbleier@avantstay.com (Reuben Doetsch a co-primary; the two founders could receive one shared email)
 - **Other contacts:** Reuben Doetsch, Co-Founder (also listed as President), reuben@avantstay.com · David Miller, Associate Product Director, david.miller@avantstay.com (unverified — confirm; common name)
-- **Stage:** new (draft, not sent)
-- **Last touch:** none yet (drafts ready)
+- **Stage:** outreach-sent — awaiting reply
+- **Last touch:** 2026-08-10
 
 ## The real blocker
 unknown, need to diagnose — no outreach sent yet.
@@ -22,3 +22,6 @@ Send the drafted email to co-founders Benson Bleier and Reuben Doetsch (one shar
 
 ## Sources
 Outreach master workbook (Drive fileId 16A_gIhI3GTNZqJ6unbwolshV8kZuFxh0DGO6XqJetIk), AvantStay tab.
+
+## Outreach log (Gmail-verified 2026-08-24)
+- Emailed 08-10: reuben, bbleier (@avantstay.com). No reply.

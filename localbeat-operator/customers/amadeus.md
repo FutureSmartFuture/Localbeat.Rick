@@ -6,8 +6,8 @@
 - **Primary contact / champion:** Katie Moro, VP Data Partnerships (Hospitality) — katie.moro@amadeus.com — +1 847-585-5419
 - **Other contacts:** Christopher Clanton, Head of Alliance Partnerships — christopher.clanton@amadeus.com · Ayesha Virani, Data Partnerships — ayesha.virani@amadeus.com
 - **Budget owner:** unknown (enterprise; Demand360 product/partnership leadership)
-- **Stage:** qualified — meeting on the Demand360 track
-- **Last touch:** 2026-08-13 (internal prep; Amadeus interest confirmed as demand-gen / market intelligence)
+- **Stage:** qualified — meeting booked
+- **Last touch:** 2026-08-11 (Teams meeting booked)
 - **Days since touch:** (routines compute)
 
 ## The real blocker
@@ -27,3 +27,6 @@ Deliver the Demand360 deck; lead with Vibrancy as the demand signal upstream of 
 
 ## Sources
 Deck "LocalBeatAmadeusDemand360" (Drive) · Aug 13 Gemini meeting notes (Drive) · Outreach workbook, Amadeus tab.
+
+## Outreach log (Gmail-verified 2026-08-24)
+- Emailed Katie Moro, Christopher Clanton, Brenda Gordon (@amadeus.com). Katie replied 08-10 (uses an events partner, open to exploring) and looped in Brenda Gordon; Teams meeting 'Local Beat | Amadeus' booked 08-11. HOT — the one live deal.

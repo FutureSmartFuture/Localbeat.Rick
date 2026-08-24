@@ -5,8 +5,8 @@
 - **Vertical:** booking platform (global OTA)
 - **Primary contact / champion:** Katherine Pagelsdorf, Director, Strategic Partnerships, kpagelsdorf@expediagroup.com (data-partnership entry point; Jason Standifer strong for the ads angle)
 - **Other contacts:** Ramana Thumu, CTO (company-wide), rthumu@expediagroup.com · Jason Standifer, Sr Director, Product Management, Media Solutions ("Cornerstone" ad platform), jstandifer@expediagroup.com · Rashmi Babtiwale, Director, Tech - Strategic Partnerships, rbabtiwale@expediagroup.com · Silvia Camarota, Hotel Market Partnerships, scamarota@expediagroup.com · Julia Merritt (formerly Walker), julwalker@expediagroup.com · Conrad Leugers, Director, Strategic Partnerships (B2B), cleugers@expediagroup.com · Katherine Pagelsdorf (above) · Jayakanth Bysani, jbysani@expediagroup.com · Ryan Rhoadarmer, rrhoadarmer@expediagroup.com (unverified — confirm) · Alex Fromson, afromson@expediagroup.com · Keith Piper, kpiper@expediagroup.com · Leilani Cabuntala, lcabuntala@expediagroup.com · Greg Boehrer, gboehrer@expediagroup.com (unverified — confirm) · Ben Waddle, Chief of Staff to CPO (Chief People Officer) & Sr Director Strategy, bwaddle@expediagroup.com · Ashley Schwartz, Strategic Partnerships & Affiliates (likely Senior Manager, not "Head of"), aschwartz@expediagroup.com (unverified — confirm) · Brett Dilley, Sr Program Manager (CTO Enablement), bdilley@expediagroup.com (routing) · Darek Blasey, "(Gig)" contractor, dblasey@expediagroup.com (unverified — confirm)
-- **Stage:** new (draft, not sent)
-- **Last touch:** none yet (drafts ready)
+- **Stage:** outreach-sent — OOO auto-reply
+- **Last touch:** 2026-08-12
 
 ## The real blocker
 unknown, need to diagnose — no outreach sent yet; large org with many role clusters to route across.
@@ -19,3 +19,6 @@ Send the drafted emails by cluster (partnerships, hotel market, tech/product inc
 
 ## Sources
 Outreach master workbook (Drive fileId 16A_gIhI3GTNZqJ6unbwolshV8kZuFxh0DGO6XqJetIk), Expedia Group tab.
+
+## Outreach log (Gmail-verified 2026-08-24)
+- Emailed 08-12: 11 addresses across @expediagroup.com (cold sends, not a thread). Julia Walker OOO auto-reply only; no real reply.

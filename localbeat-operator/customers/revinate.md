@@ -5,8 +5,8 @@
 - **Vertical:** other (hotel CRM / CDP / marketing)
 - **Primary contact / champion:** Bryson Koehler, CEO (ex Equifax/IBM/Weather Company CTO), bryson.koehler@revinate.com (Leura Morahan, CPO, a co-primary)
 - **Other contacts:** Leura Morahan, CPO, leura@revinate.com
-- **Stage:** new (draft, not sent)
-- **Last touch:** none yet (drafts ready)
+- **Stage:** outreach-sent — awaiting reply
+- **Last touch:** 2026-08-17
 
 ## The real blocker
 unknown, need to diagnose — no outreach sent yet.
@@ -22,3 +22,6 @@ Send the drafted cold-open email to Bryson Koehler (CEO) and Leura Morahan (CPO)
 
 ## Sources
 Outreach master workbook (Drive fileId 16A_gIhI3GTNZqJ6unbwolshV8kZuFxh0DGO6XqJetIk), Revinate tab.
+
+## Outreach log (Gmail-verified 2026-08-24)
+- Emailed 08-17: bryson.koehler, leura (@revinate.com). No reply.

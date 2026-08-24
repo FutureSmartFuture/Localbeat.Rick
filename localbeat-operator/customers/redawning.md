@@ -5,8 +5,8 @@
 - **Vertical:** vacation-rental (distribution/booking platform)
 - **Primary contact / champion:** Tim Choate, CEO & Founder, tim@redawning.com (strategic booking/distribution + retargeting + demand-gen; Lance Nelson a co-primary for platform/data integration)
 - **Other contacts:** Lance Nelson, CTO & Founder, lance@redawning.com
-- **Stage:** new (draft, not sent)
-- **Last touch:** none yet (drafts ready)
+- **Stage:** outreach-sent — awaiting reply
+- **Last touch:** 2026-08-17
 
 ## The real blocker
 unknown, need to diagnose — no outreach sent yet.
@@ -19,3 +19,6 @@ Send the drafted email to both founders Tim Choate and Lance Nelson (can be one 
 
 ## Sources
 Outreach master workbook (Drive fileId 16A_gIhI3GTNZqJ6unbwolshV8kZuFxh0DGO6XqJetIk), RedAwning tab.
+
+## Outreach log (Gmail-verified 2026-08-24)
+- Emailed 08-17: tim, lance (@redawning.com). No reply.

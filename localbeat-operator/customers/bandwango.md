@@ -5,8 +5,8 @@
 - **Vertical:** other (destination-experience SaaS / DMO)
 - **Primary contact / champion:** Maclaine Kuehn (full name Maclaine Brock Kuehn), Director of Marketing, mkuehn@bandwango.com
 - **Other contacts:** unknown (single contact on the sheet)
-- **Stage:** new (draft, not sent)
-- **Last touch:** none yet (drafts ready)
+- **Stage:** outreach-sent — awaiting reply
+- **Last touch:** 2026-08-10
 
 ## The real blocker
 unknown, need to diagnose — no outreach sent yet.
@@ -19,3 +19,6 @@ Send the drafted cold-open email to Maclaine Kuehn.
 
 ## Sources
 Outreach master workbook (Drive fileId 16A_gIhI3GTNZqJ6unbwolshV8kZuFxh0DGO6XqJetIk), Bandwango tab.
+
+## Outreach log (Gmail-verified 2026-08-24)
+- Emailed 08-10: mkuehn@bandwango.com. No reply.

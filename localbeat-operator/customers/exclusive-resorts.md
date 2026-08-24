@@ -5,8 +5,8 @@
 - **Vertical:** other (luxury destination club)
 - **Primary contact / champion:** Alexandra Lemieux, VP, Marketing (promoted from Senior Director), alemieux@exclusiveresorts.com
 - **Other contacts:** Erin Silver, Senior Director, Growth Marketing & Communications, esilver@exclusiveresorts.com · Teresa Swann, Marketing, tswann@exclusiveresorts.com · Ashley Hinchman, Marketing, ahinchman@exclusiveresorts.com (unverified — confirm) · Samantha Birnbach, Marketing, sbirnbach@exclusiveresorts.com (unverified — confirm)
-- **Stage:** new (draft, not sent)
-- **Last touch:** none yet (drafts ready)
+- **Stage:** outreach-sent — awaiting reply
+- **Last touch:** 2026-08-11
 
 ## The real blocker
 unknown, need to diagnose — no outreach sent yet.
@@ -19,3 +19,6 @@ Send the drafted cold-open email to Alexandra Lemieux (primary/senior target) an
 
 ## Sources
 Outreach master workbook (Drive fileId 16A_gIhI3GTNZqJ6unbwolshV8kZuFxh0DGO6XqJetIk), Exclusive Resorts tab.
+
+## Outreach log (Gmail-verified 2026-08-24)
+- Emailed 08-11: esilver, alemieux (@exclusiveresorts.com). No reply.

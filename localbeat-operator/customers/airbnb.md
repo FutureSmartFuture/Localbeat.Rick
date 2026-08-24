@@ -5,8 +5,8 @@
 - **Vertical:** booking platform
 - **Primary contact / champion:** Lou Zameryka, Global Head, Hotel Enterprise & Connectivity Partnerships, lou.zameryka@airbnb.com (best-fit buyer; Alston Cheek a strong co-primary)
 - **Other contacts:** Alston Cheek, Director, Platform Partnerships, alston.cheek@airbnb.com · Ahmad Al-Dahle, CTO (since Jan 2026, ex-Meta), ahmad@airbnb.com · Brian Chesky, Co-founder & CEO, brian@airbnb.com (vision-level long shot) · Daniel Skold, Exec & Internal Comms Lead, daniel.skold@airbnb.com (routing) · Joanne Yee, Principal Exec Business Partner to CFO, joanne.yee@airbnb.com (EA / routing) · Lindsay Whittemore, Principal Exec Business Partner to CTO, lindsay.whittemore@airbnb.com (EA / routing) · Sam Kline, Director of Brand Partnerships, sam.kline@airbnb.com (unverified — confirm) · Raoul Arboite, Event Producer/Founder (title unverifiable), raoul.arboite@airbnb.com (unverified — confirm)
-- **Stage:** new (draft, not sent)
-- **Last touch:** none yet (drafts ready)
+- **Stage:** outreach-sent — awaiting reply
+- **Last touch:** 2026-08-07
 
 ## The real blocker
 unknown, need to diagnose — no outreach sent yet; challenge is reaching the right product/partnerships owner inside a large platform.
@@ -22,3 +22,6 @@ Send the drafted outreach to Lou Zameryka and Alston Cheek (best-fit); use Danie
 
 ## Sources
 Outreach master workbook (Drive fileId 16A_gIhI3GTNZqJ6unbwolshV8kZuFxh0DGO6XqJetIk), Airbnb tab.
+
+## Outreach log (Gmail-verified 2026-08-24)
+- Emailed 08-07: alston.cheek, lou.zameryka, joanne.yee, daniel.skold, plus long-shots brian@ and ahmad@airbnb.com. No reply.

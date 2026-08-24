@@ -5,8 +5,8 @@
 - **Vertical:** Hotel operator / management
 - **Contacts (validated at Aimbridge):** Brooke Schommer, VP Marketing – Full Service (Second Wave) — brooke.schommer@aimbridge.com · Heidi Castle, VP PR & Corporate Marketing — heidi.castle@aimbridge.com · Mike Nealon, VP Sales & Marketing — mike.nealon@aimhosp.com · Tom Kenney, SVP Sales & Marketing — tom.kenney@aimhosp.com · Kathie Jacobs, VP Sales & Marketing — kathie.jacobs@aimbridge.com
 - **Warm path:** "Danny" (personal contact inside Aimbridge) — no details on file yet
-- **Stage:** stalled — pivoting to warm intro
-- **Last touch:** 2026-08-13 (strategy updated: route through Danny after cold VP outreach got no reply)
+- **Stage:** outreach-sent — awaiting reply (1 address bounced)
+- **Last touch:** 2026-08-06
 - **Days since touch:** (routines compute)
 
 ## The real blocker
@@ -28,3 +28,6 @@ Rick messages Danny to request an intro/navigation into the org, articulating Lo
 
 ## Sources
 Aug 13 Gemini meeting notes (Drive) · Outreach workbook, Aimbridge tab.
+
+## Outreach log (Gmail-verified 2026-08-24)
+- Emailed Kathie Jacobs, Heidi Castle, Brooke Schommer (@aimbridge.com) + Mike Nealon, Tom Kenney (@aimhosp.com) on 08-06. tom.kenney@aimhosp.com HARD-BOUNCED. No human reply. Correction: this is NOT stalled — it is awaiting a first reply. Follow-up options: the Danny warm intro, and re-send to a valid address for Kenney.

@@ -5,8 +5,8 @@
 - **Vertical:** hotel operator (ultra-luxury)
 - **Primary contact / champion:** Tracy Fitz, Area DOSM, Rosewood Mansion on Turtle Creek (Dallas) + Rosewood Inn of the Anasazi (Santa Fe), tracy.fitz@rosewoodhotels.com
 - **Other contacts:** James Tattersall, Cluster DOSM, Rosewood Calistoga + Rosewood Sand Hill (Northern California), james.tattersall@rosewoodhotels.com · Elie Kik, Area DOSM, Americas (NY-based), elie.kik@rosewoodhotels.com · Mary Barnes, Distribution Channel Marketing Manager, Rosewood Hotel Group (corporate, Hong Kong), mary.barnes@rosewoodhotelgroup.com (US-coverage caveat — relevant only for US properties) · Ashley Smith, ashley.smith@rosewoodhotels.com (unverified — confirm; possibly moved to Auberge; her Rosewood property Little Dix Bay is Caribbean, outside US coverage)
-- **Stage:** new (draft, not sent)
-- **Last touch:** none yet (drafts ready)
+- **Stage:** outreach-sent — awaiting reply
+- **Last touch:** 2026-08-17
 
 ## The real blocker
 Contacts are property/regional (no single corporate buyer), and coverage skews the list — some properties/contacts sit outside LocalBeat's US-only footprint.
@@ -22,3 +22,6 @@ Send localized drafted emails to the US-property contacts Tracy Fitz (Dallas/San
 
 ## Sources
 Outreach master workbook (Drive fileId 16A_gIhI3GTNZqJ6unbwolshV8kZuFxh0DGO6XqJetIk), Rosewood Hotels & Resorts tab.
+
+## Outreach log (Gmail-verified 2026-08-24)
+- Emailed 08-17: james.tattersall@rosewoodhotels.com. No reply.

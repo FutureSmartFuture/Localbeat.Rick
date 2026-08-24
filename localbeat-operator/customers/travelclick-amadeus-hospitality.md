@@ -5,8 +5,8 @@
 - **Vertical:** travel-tech data
 - **Primary contact / champion:** Brenda Gordon, Director, Data Partnerships, Amadeus Hospitality (formerly TravelClick), brenda.gordon@amadeus.com
 - **Other contacts:** unknown (single contact on the sheet). NOTE: same Data Partnerships team as the Amadeus tab (Katie Moro, Ayesha Virani) — coordinate to avoid double-hitting.
-- **Stage:** new (draft, not sent)
-- **Last touch:** none yet (drafts ready)
+- **Stage:** merged into Amadeus deal
+- **Last touch:** 2026-08-11 (via Amadeus thread)
 
 ## The real blocker
 Overlap risk — this is the same Amadeus Hospitality Data Partnerships team as the Amadeus tab, so outreach must be coordinated to avoid double-hitting the same team.
@@ -19,3 +19,6 @@ Send the drafted cold-open email to Brenda Gordon — but coordinate with the Am
 
 ## Sources
 Outreach master workbook (Drive fileId 16A_gIhI3GTNZqJ6unbwolshV8kZuFxh0DGO6XqJetIk), TravelClick (Amadeus Hospitality) tab.
+
+## Outreach log (Gmail-verified 2026-08-24)
+- TravelClick is an Amadeus Hospitality brand; brenda.gordon@amadeus.com is part of the Amadeus meeting thread. NOT a separate opportunity — see amadeus.md. Do not double-count.

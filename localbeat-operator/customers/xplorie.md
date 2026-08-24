@@ -5,8 +5,8 @@
 - **Vertical:** other (guest-activities platform)
 - **Primary contact / champion:** Caleb Yaryan, Chief Technology Officer (sheet's "CPO" title is wrong), cyaryan@xplorie.com
 - **Other contacts:** Mykael Lourens, Product Owner (secondary — named in brief, no email on sheet; do not fabricate)
-- **Stage:** new (draft, not sent)
-- **Last touch:** none yet (drafts ready)
+- **Stage:** outreach-sent — awaiting reply
+- **Last touch:** 2026-08-19
 
 ## The real blocker
 unknown, need to diagnose — no outreach sent yet; preempt the "raw firehose" data worry.
@@ -19,3 +19,6 @@ Send the drafted cold-open email to Caleb Yaryan (CTO — the right product/tech
 
 ## Sources
 Outreach master workbook (Drive fileId 16A_gIhI3GTNZqJ6unbwolshV8kZuFxh0DGO6XqJetIk), Xplorie tab.
+
+## Outreach log (Gmail-verified 2026-08-24)
+- Emailed 08-19: cyaryan@xplorie.com. No reply.

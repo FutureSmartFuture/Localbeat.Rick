@@ -5,8 +5,8 @@
 - **Vertical:** vacation-rental
 - **Primary contact / champion:** Steve Milo, Founder & board member / majority owner (stepped down as CEO Mar 2025), steve.milo@vtrips.com (founder-level intro only; route to operational buyers)
 - **Other contacts:** unknown on the sheet — re-source Scott Seay (CEO) and Chad Blankenship (VP Revenue Mgmt & Innovation) as the real operational buyers (no emails on the sheet — do not fabricate)
-- **Stage:** new (draft, not sent)
-- **Last touch:** none yet (drafts ready)
+- **Stage:** new — not yet contacted
+- **Last touch:** none (Gmail-verified: no outreach found)
 
 ## The real blocker
 The only listed contact (Steve Milo) is now board/founder, not operational — the real buyers (CEO Scott Seay, VP Revenue Mgmt Chad Blankenship) still need to be sourced.
@@ -19,3 +19,6 @@ Send the drafted founder-level intro to Steve Milo with a soft "point me to your
 
 ## Sources
 Outreach master workbook (Drive fileId 16A_gIhI3GTNZqJ6unbwolshV8kZuFxh0DGO6XqJetIk), VTrips tab.
+
+## Outreach log (Gmail-verified 2026-08-24)
+- No outreach found in Gmail as of 2026-08-24. Genuinely new.

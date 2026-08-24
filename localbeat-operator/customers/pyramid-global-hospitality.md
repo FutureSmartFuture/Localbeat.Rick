@@ -5,8 +5,8 @@
 - **Vertical:** hotel operator
 - **Primary contact / champion:** Simon Rendall, VP, Ecommerce, srendall@pyramidhotelgroup.com (digital/retargeting target) (unverified — confirm; legacy @pyramidhotelgroup.com email, confirm current address)
 - **Other contacts:** Brittany Farella, Regional VP of Marketing, bfarella@pyramidglobal.com · Jenna Keegan, Regional VP, Sales & Marketing, jenna.keegan@pyramidglobal.com · Skip James, VP, Resort Sales & Marketing, sjames@pyramidglobal.com (resort lean) · Fred Desota (spelling: DeSota), Regional VP, Sales & Marketing, Benchmark Pyramid Luxury & Lifestyle, fred.desota@pyramidglobal.com (unverified — confirm; luxury/lifestyle lean)
-- **Stage:** new (draft, not sent)
-- **Last touch:** none yet (drafts ready)
+- **Stage:** outreach-sent — OOO auto-reply
+- **Last touch:** 2026-08-17
 
 ## The real blocker
 unknown, need to diagnose — no outreach sent yet.
@@ -19,3 +19,6 @@ Send the drafted emails to Brittany Farella, Jenna Keegan, Skip James (resort le
 
 ## Sources
 Outreach master workbook (Drive fileId 16A_gIhI3GTNZqJ6unbwolshV8kZuFxh0DGO6XqJetIk), Pyramid Global Hospitality tab.
+
+## Outreach log (Gmail-verified 2026-08-24)
+- Emailed 08-17: bfarella, jenna.keegan, sjames (@pyramidglobal.com). Jenna Keegan maternity-leave auto-reply only — follow up later.

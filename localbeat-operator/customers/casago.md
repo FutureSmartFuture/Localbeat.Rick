@@ -5,8 +5,8 @@
 - **Vertical:** vacation-rental (property manager)
 - **Primary contact / champion:** Steve Schwab, Founder & CEO (transitioning to Founder & Chairman Oct 2026; incoming CEO Joe Riley), sschwab@casago.com (Carlos Corzo a co-primary for data integration)
 - **Other contacts:** Carlos Corzo, Partner / CTO, carlos@casago.com · Vivian Chan, Executive Assistant to the CEO ("Office of the CEO"), vivian@casago.com (routing / gatekeeper) · Mike Weimann, President & Co-Owner / GM, Casago Highland Lakes (TX franchise), gmhighlandlakes@casago.com (secondary — single-market franchisee, not corporate)
-- **Stage:** new (draft, not sent)
-- **Last touch:** none yet (drafts ready)
+- **Stage:** outreach-sent — awaiting reply
+- **Last touch:** 2026-08-11
 
 ## The real blocker
 unknown, need to diagnose — no outreach sent yet; note leadership transition (Schwab → Riley Oct 2026).
@@ -22,3 +22,6 @@ Send the drafted emails to Steve Schwab (CEO) and Carlos Corzo (CTO, data-integr
 
 ## Sources
 Outreach master workbook (Drive fileId 16A_gIhI3GTNZqJ6unbwolshV8kZuFxh0DGO6XqJetIk), Casago tab.
+
+## Outreach log (Gmail-verified 2026-08-24)
+- Emailed 08-11: sschwab, carlos, gmhighlandlakes (@casago.com). No reply. (gmhighlandlakes is a property GM mailbox, not a named contact.)

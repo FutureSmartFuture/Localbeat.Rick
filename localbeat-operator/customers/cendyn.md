@@ -5,8 +5,8 @@
 - **Vertical:** other (hotel CRM / marketing / revenue cloud)
 - **Primary contact / champion:** Nicole Truong, Director of Product Management, ntruong@cendyn.com
 - **Other contacts:** Chris Knuteson, listed as "Founder" but public sources indicate a Senior DevOps / technical engineer (not a founder or buyer), cknuteson@cendyn.com (unverified — confirm; likely wrong contact — reach Nicole Truong instead)
-- **Stage:** new (draft, not sent)
-- **Last touch:** none yet (drafts ready)
+- **Stage:** outreach-sent — awaiting reply
+- **Last touch:** 2026-08-10
 
 ## The real blocker
 unknown, need to diagnose — no outreach sent yet.
@@ -19,3 +19,6 @@ Send the drafted cold-open email to Nicole Truong (the right target). Verify Chr
 
 ## Sources
 Outreach master workbook (Drive fileId 16A_gIhI3GTNZqJ6unbwolshV8kZuFxh0DGO6XqJetIk), Cendyn tab.
+
+## Outreach log (Gmail-verified 2026-08-24)
+- Emailed 08-10: ntruong@cendyn.com. No reply.

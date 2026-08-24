@@ -5,8 +5,8 @@
 - **Vertical:** other (unified hospitality platform / PMS)
 - **Primary contact / champion:** Adam Harris, CEO & Co-Founder (self-described AI advocate), adam.harris@cloudbeds.com (Richard Castle a co-primary)
 - **Other contacts:** Richard Castle, Co-Founder, President & COO, richard.castle@cloudbeds.com
-- **Stage:** new (draft, not sent)
-- **Last touch:** none yet (drafts ready)
+- **Stage:** outreach-sent — awaiting reply
+- **Last touch:** 2026-08-11
 
 ## The real blocker
 unknown, need to diagnose — no outreach sent yet.
@@ -19,3 +19,6 @@ Send the drafted email to both co-founders Adam Harris and Richard Castle (can b
 
 ## Sources
 Outreach master workbook (Drive fileId 16A_gIhI3GTNZqJ6unbwolshV8kZuFxh0DGO6XqJetIk), Cloudbeds tab.
+
+## Outreach log (Gmail-verified 2026-08-24)
+- Emailed 08-11: adam.harris, richard.castle (@cloudbeds.com). No reply.

@@ -5,8 +5,8 @@
 - **Vertical:** vacation-rental
 - **Primary contact / champion:** Harish Naidu, Chief Product & Technology Officer, harish.naidu@vacasa.com (unverified — confirm; title confirmed but post-acquisition employment needs a LinkedIn check given the C-suite exodus)
 - **Other contacts:** Tim Barber, CTO, Latitude 38 Telluride ("by Vacasa" local brand — NOT corporate Vacasa), tim.barber@vacasa.com (unverified — confirm; wrong company scope) · Brandon S, Sales Operations Manager, brandons@vacasa.com (routing / low priority — junior IC, not a buyer)
-- **Stage:** new (draft, not sent)
-- **Last touch:** none yet (drafts ready)
+- **Stage:** outreach attempted — delivery delayed
+- **Last touch:** 2026-08-18 (delivery delayed)
 
 ## The real blocker
 The list is mostly bad post-acquisition — only Harish Naidu (CPTO) is a real target, and even his employment needs verification after the C-suite exodus; the rest are wrong-scope, junior, or bogus records.
@@ -19,3 +19,6 @@ Verify Harish Naidu's post-acquisition employment, then send the drafted platfor
 
 ## Sources
 Outreach master workbook (Drive fileId 16A_gIhI3GTNZqJ6unbwolshV8kZuFxh0DGO6XqJetIk), Vacasa (A Casago Company) tab.
+
+## Outreach log (Gmail-verified 2026-08-24)
+- Emailed 08-18: harish.naidu@vacasa.com — Gmail delivery delayed as of 08-24, may still fail. Confirm delivery or find a working address.

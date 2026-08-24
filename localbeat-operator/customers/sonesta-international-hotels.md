@@ -5,8 +5,8 @@
 - **Vertical:** hotel operator (multi-brand)
 - **Primary contact / champion:** Chris Trick, Chief Marketing & Performance Officer (corporate), chris.trick@sonesta.com (primary/senior; demand-gen/performance + retargeting emphasis)
 - **Other contacts:** Amanda Marcello, VP, Marketing (Franchise Marketing), corporate, amanda.marcello@sonesta.com · Thomas Graffeo, Director of Sales & Marketing (property-level; property not pinned), thomas.graffeo@sonesta.com · Michele Simpson, Director, Sales & Marketing (likely Philadelphia), msimpson@sonesta.com (unverified — confirm; sheet LinkedIn resolves to an IHG employee, identity mismatch) · Charleen Murphy, charleen.murphy@sonesta.com (departed — remove; now Sr Account Executive at Airbnb)
-- **Stage:** new (draft, not sent)
-- **Last touch:** none yet (drafts ready)
+- **Stage:** new — not yet contacted
+- **Last touch:** none (Gmail-verified: no outreach found)
 
 ## The real blocker
 unknown, need to diagnose — no outreach sent yet.
@@ -19,3 +19,6 @@ Send the drafted emails to Chris Trick (CMO, offer-your-properties + performance
 
 ## Sources
 Outreach master workbook (Drive fileId 16A_gIhI3GTNZqJ6unbwolshV8kZuFxh0DGO6XqJetIk), Sonesta International Hotels tab.
+
+## Outreach log (Gmail-verified 2026-08-24)
+- No outreach found in Gmail as of 2026-08-24. Genuinely new.

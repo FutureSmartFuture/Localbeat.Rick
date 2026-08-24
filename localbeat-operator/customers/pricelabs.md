@@ -5,8 +5,8 @@
 - **Vertical:** travel-tech data (dynamic pricing)
 - **Primary contact / champion:** Sana Hassan, Co-Founder, sana@pricelabs.co (strategic data partnership)
 - **Other contacts:** Pedro Borges, Director of Data Science, pedro@pricelabs.co (a clean, structured event-demand input for the models)
-- **Stage:** new (draft, not sent)
-- **Last touch:** none yet (drafts ready)
+- **Stage:** outreach-sent — awaiting reply
+- **Last touch:** 2026-08-13
 
 ## The real blocker
 unknown, need to diagnose — no outreach sent yet.
@@ -19,3 +19,6 @@ Send the drafted cold-open emails: data-partnership angle to Sana Hassan; struct
 
 ## Sources
 Outreach master workbook (Drive fileId 16A_gIhI3GTNZqJ6unbwolshV8kZuFxh0DGO6XqJetIk), PriceLabs tab.
+
+## Outreach log (Gmail-verified 2026-08-24)
+- Emailed 08-13: sana, pedro (@pricelabs.co). No reply.
