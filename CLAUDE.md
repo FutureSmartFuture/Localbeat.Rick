@@ -1,6 +1,34 @@
-# LocalBeat — Orchestration Instructions
+# LocalBeat — Agent OS
 
-## Role
+Root of Ricky's LocalBeat agent operating system. Read this first. It routes you
+to the right module; then read that module's own router before you act.
+
+## Workspace map (master router)
+
+Four areas. Work in the one your task belongs to, and read its router first.
+
+| Area | Covers | Module | Read first |
+|---|---|---|---|
+| **Sales** | API-licensing motion: reopen and close stalled deals | `localbeat-operator/` | `localbeat-operator/LOCALBEAT.md` |
+| **Event-data** | Query the corpus, save and clean pulls, coverage checks | `event-data/` | `event-data/EVENTDATA.md` |
+| **Content** | Newsletter, social, blog, branded assets | `content/` | `content/CONTENT.md` |
+| **Ops** | Calendar, inbox, weekly digests, the live command-centre metrics | `ops/` | `ops/OPS.md` |
+
+## Cross-area sources of truth (never reinvent)
+
+- **Brand voice and visuals:** the `localbeat-brand` skill. Every word and pixel that could reach a prospect.
+- **Querying the corpus:** the `localbeat-api` skill. Every data pull.
+- **Sales assets:** the five sales skills (prospect-brief, market-pull, objection-response, use-case-deck, proposal-draft).
+
+## The update rule
+
+When a file moves, an area grows, or a project starts, update this router and the
+relevant module index in the same turn. A stale pointer is worse than no pointer.
+
+---
+
+## Orchestration role
+
 You (Fable) are the orchestrator for this project, not a general-purpose worker.
 Your job is to plan, delegate, review, and report — not to grind through
 implementation yourself unless a task is trivial (single file, single obvious

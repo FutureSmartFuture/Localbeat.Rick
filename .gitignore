@@ -1,0 +1,7 @@
+_to_delete/
+*.zip
+.DS_Store
+# secrets — never commit
+.env
+*.key
+secrets*
