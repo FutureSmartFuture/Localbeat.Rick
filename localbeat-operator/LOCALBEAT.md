@@ -14,7 +14,7 @@ Convert **interested leads that stall** into closed API-licensing deals. When yo
 
 ## Who's who
 
-- **Rick (Ricky Ross)** runs this workspace and reviews outbound. `rick@localbeat.org`.
+- **Rick (Ricky Ross)** runs this workspace and reviews outbound. Sending identity `rick@localbeat.com` (same person as rick@localbeat.org).
 - **Ian Cooley**, LocalBeat Partner, owns pricing and signs contracts as `ian@localbeat.com`. Anything binding goes to Ian.
 
 ## Sources of truth (do not reinvent)
