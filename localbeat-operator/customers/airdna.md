@@ -1,20 +1,24 @@
 # AirDNA
 
 ## Snapshot
-- **Company:** AirDNA (airdna.co) — short-term-rental market data & analytics; Airbnb/Vrbo revenue intelligence, demand forecasting, outlook reports, STR Data Lab podcast.
-- **Vertical:** Travel-tech / STR analytics (a data company)
-- **Contacts (validated):** Rohit Bezewada, CEO — rohit.bezewada@airdna.co — +1 512-965-2669 · Luke DaMommio, Sr Director Brand & Product Marketing — luke.damommio@airdna.co
-- **Stage:** new — outreach drafted, not sent (one shared email to both)
+- **Company:** AirDNA (airdna.co) — short-term-rental (STR) market-data and analytics company selling VR market data, Airbnb/Vrbo revenue intelligence, demand forecasting, and market analysis to investors, hosts, PMs, and enterprises; publishes the US STR Outlook reports and the STR Data Lab podcast.
+- **Vertical:** travel-tech data
+- **Primary contact / champion:** Rohit Bezewada, CEO (appointed 2025, succeeded Demi Horvat), rohit.bezewada@airdna.co
+- **Other contacts:** Luke Damommio (public spelling "DaMommio"), Sr. Director, Brand & Product Marketing, luke.damommio@airdna.co
+- **Stage:** new (draft, not sent)
 - **Last touch:** none yet (drafts ready)
 
 ## The real blocker
-Not yet sent. Selling data to a data company: must prove event data measurably improves their forecasting, not just adds a feed.
+unknown, need to diagnose — no outreach sent yet.
 
 ## Their use case
-Event data as a demand-signal layer that sharpens AirDNA's forecasting/analytics and becomes a differentiated signal in their products, plus a fresh angle for their marketing/outlook content. No retargeting mechanic. API-first, bi-directional partnership.
+Position LocalBeat as an event-demand data layer that enriches AirDNA's forecasting/analytics and could become a differentiated signal inside its products, plus a fresh angle for its marketing and outlook content. Local events (festivals, concerts, sports, conventions) are a major driver of STR occupancy and rate. Data-partnership framing — retargeting mechanic does NOT apply. API + MCP integration.
+
+## Their language
+Event data adds "clarity" to occupancy and the "vibrancy" of an area for a weekend (softer framing per Rick's edited copy).
 
 ## Next move
-Send the shared email to Rohit + Luke, framed as a forecasting-lift partnership. Attach a market pull showing events as an unmodeled demand driver in a market they cover.
+Send the shared drafted email to Rohit Bezewada and Luke Damommio (the two share one message and can be sent as a single email to both).
 
 ## Sources
-Outreach workbook, AirDNA tab.
+Outreach master workbook (Drive fileId 16A_gIhI3GTNZqJ6unbwolshV8kZuFxh0DGO6XqJetIk), AirDNA tab.

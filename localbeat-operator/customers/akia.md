@@ -1,20 +1,24 @@
 # Akia
 
 ## Snapshot
-- **Company:** Akia (akia.com) — hospitality guest-experience software: guest messaging, contactless check-in, digital guidebooks, upsells, cashless tipping, mini-apps, AI agents for hotels. Raised a $6M Series A.
-- **Vertical:** Guest-experience SaaS
-- **Contact:** Evan Chen, CEO & Founder — evan@akia.com — +1 650-505-9670
-- **Stage:** new — outreach drafted, not sent
-- **Last touch:** none yet (draft ready)
+- **Company:** Akia (akia.com) — hospitality guest-experience software platform: guest messaging, contactless check-in, digital guidebooks, team chat, upsells, cashless tipping, mini-apps, and AI agents for hotels (raised a $6M Series A).
+- **Vertical:** guest-experience SaaS
+- **Primary contact / champion:** Evan Chen, CEO & Founder, evan@akia.com
+- **Other contacts:** unknown (single contact on the sheet)
+- **Stage:** new (draft, not sent)
+- **Last touch:** none yet (drafts ready)
 
 ## The real blocker
-Nothing sent; single (CEO) contact; small-scale ($6M Series A) startup.
+unknown, need to diagnose — no outreach sent yet.
 
 ## Their use case
-LocalBeat as a live "what's happening nearby" data layer inside Akia's guest-facing product — guidebooks, messaging, and the AI concierge — tied to property + stay dates. Strong fit with their AI agents answering guest "what to do" questions.
+LocalBeat as a data layer embedded inside Akia's guest-facing product, so hotels using Akia can auto-surface "what's happening nearby" through guidebooks, messaging, and the AI concierge, tied to the property and stay dates. Strong fit with Akia's AI agents that answer guest "what to do" questions. API + MCP integration; no consumer retargeting mechanic.
+
+## Their language
+LinkedIn self-description: "CEO @ Akia | AI Agents for Hospitality".
 
 ## Next move
-Send to Evan Chen. Lead with the AI-concierge angle (MCP-native event data the agent can query live).
+Send the drafted cold-open email to Evan Chen.
 
 ## Sources
-Outreach workbook, Akia tab.
+Outreach master workbook (Drive fileId 16A_gIhI3GTNZqJ6unbwolshV8kZuFxh0DGO6XqJetIk), Akia tab.
